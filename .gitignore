@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Jetbrains 
+*.idea
+*DS_Store
